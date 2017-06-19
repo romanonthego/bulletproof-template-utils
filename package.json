@@ -1,0 +1,8 @@
+{
+  "name": "bulletproof-template-utils",
+  "version": "1.0.0",
+  "description": "utils for building apps on bulletproof-template",
+  "main": "index.js",
+  "author": "Roman Dubinin <romanonthego@gmail.com>",
+  "license": "MIT"
+}
